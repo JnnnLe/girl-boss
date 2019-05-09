@@ -1,0 +1,23 @@
+.jumbotron {
+  background-image: url("images/brickwall-unsplash.jpg");
+  background-size: cover;
+}
+
+.jennifer {
+  color: white;
+  font-size: 3.5em;
+  text-align: right;
+  background-color: black;
+  opacity: 0.5;
+  padding: 1em;
+}
+
+img {
+  height: 250px;
+  width: 320px;
+  -moz-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
