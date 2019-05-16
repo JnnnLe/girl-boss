@@ -6,8 +6,6 @@ font-family: 'Source Sans Pro', sans-serif;
 
 .container {
   min-height: 100%; 
-  /* width: 100vw;
-  height: 100vh; */
 }
 
 body {
@@ -36,9 +34,6 @@ a {
 
 .logos img {
   text-align: center;
-  /* width: 1fr;
-  height: 1fr; */
-
 }
 
 .main {
